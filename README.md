@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer / Web Developer
 ---------------------------------
 
-* 🚀  I'm currently working on an app to help caregivers in Guyana
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on anything that aims to make a difference.
 
