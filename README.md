@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer / Web Developer
 ---------------------------------
 
-* 🧠  I'm learning React
+* 🧠  I'm learning Golang
 * 🤝  I'm open to collaborating on anything that aims to make a difference.
 
 ### Skills
